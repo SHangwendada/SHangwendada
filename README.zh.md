@@ -35,7 +35,7 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHangwendada&show_icons=true&theme=dark&locale=zh" alt="GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHangwendada&show_icons=true&theme=dark&locale=en" alt="GitHub 统计" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHangwendada&theme=dark&locale=zh" alt="连续贡献天数" />
 </p>
 
