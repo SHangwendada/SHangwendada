@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I%27m%20SHangwendada!;Welcome%20to%20my%20GitHub%20profile!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Binary Reverse Engineer · Exploit Developer · Automation Enthusiast</h3>
+<h3 align="center">Binary Reverse Engineer</h3>
 
 <p align="center">
   <a href="mailto:2277873568@qq.com">✉️ Email Me</a> ·
@@ -45,9 +45,6 @@
 
 - 🔍 **[CodeRepo](https://github.com/SHangwendada/CodeRepo)**  
   A collection of reverse-engineering demos & tools.  
-
-- 🛠️ **[Reverse-exercise](https://github.com/SHangwendada/Reverse-exercise)**  
-  Reverse-challenge solutions and write-ups.  
 
 - 📱 **[-NSS3rd-EverythingFake](https://github.com/SHangwendada/-NSS3rd-EverythingFake)**  
   Mobile CTF challenge from NSS 3rd Anniversary.  
