@@ -4,10 +4,6 @@
   <a href="./README.zh.md">🇨🇳 中文</a> | <strong>🇺🇸 English</strong>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I%27m%20SHangwendada!;Welcome%20to%20my%20GitHub%20profile!" alt="Typing SVG" />
-</p>
-
 <h3 align="center">Binary Reverse Engineer</h3>
 
 <p align="center">
