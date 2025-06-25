@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=你好%2C%20我是%20SHangwendada!;欢迎来到我的%20GitHub%20主页!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%2C%20%E6%88%91%E6%98%AF%20SHangwendada!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%20GitHub%20%E4%B8%BB%E9%A1%B5!" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">二进制逆向工程师</h3>
 
