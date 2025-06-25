@@ -5,7 +5,7 @@
 <h3 align="center">Binary Reverse Engineer · Exploit Developer · Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">✉️ Email Me</a> ·
+  <a href="mailto:2277873568@qq.com">✉️ Email Me</a> ·
   <a href="https://github.com/SHangwendada">🐙 Follow Me</a> ·
   <a href="https://github.com/SHangwendada?tab=followers">👥 Followers</a>
 </p>
