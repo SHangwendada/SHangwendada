@@ -68,6 +68,6 @@
 
   - 🏆 Participated in numerous CTF competitions  
   - 🔭 Currently exploring Android WebView exploit chains  
-  - 🌱 Learning smart contract security & Frida plugin development  
+  - 🌱 Learning Frida plugin development  
   - 💬 Ask me about reverse engineering, exploit dev, automation scripts
 </details>
