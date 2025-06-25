@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=你好%2C%20我是%20SHangwendada!;欢迎来到我的%20GitHub%20主页!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">二进制逆向工程师 · 漏洞开发者 · 自动化爱好者</h3>
+<h3 align="center">二进制逆向工程师</h3>
 
 <p align="center">
   <a href="mailto:2277873568@qq.com">✉️ 给我发邮件</a> ·
@@ -44,10 +44,7 @@
 ## 🚀 精选项目
 
 - 🔍 **[CodeRepo](https://github.com/SHangwendada/CodeRepo)**  
-  逆向演示与工具集合  
-
-- 🛠️ **[Reverse-exercise](https://github.com/SHangwendada/Reverse-exercise)**  
-  逆向挑战解题与写作  
+  逆向题目代码集合
 
 - 📱 **[-NSS3rd-EverythingFake](https://github.com/SHangwendada/-NSS3rd-EverythingFake)**  
   NSS 三周年移动 CTF 题目  
@@ -73,7 +70,7 @@
   <summary>更多关于我</summary>
 
   - 🏆 参与过多场 CTF 比赛  
-  - 🔭 正在研究 Android WebView 漏洞利用链  
+  - 🔭 正在研究 Android WebView 漏洞
   - 🌱 学习 Frida 插件开发  
   - 💬 欢迎交流逆向工程、漏洞开发、自动化脚本
 </details>
